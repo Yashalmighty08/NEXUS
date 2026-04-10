@@ -1,8 +1,0 @@
-Item Name,Price,Current Stock,Low Stock Threshold
-Milk,2.5,35,10
-Bread,1.8,20,5
-Eggs,3.0,99,20
-Butter,4.5,3,5
-Sugar,1.2,200,15
-Corn meal,30.0,150,50
-Cheese,400.0,300,20
