@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Spaceship 2.0\Documents\UWI Files\Semester ii 2026\COMP2171\focus_1\focus_1\NEXUS\FOCUS.jar</jar>
+  <outfile>C:\Users\Spaceship 2.0\Documents\UWI Files\Semester ii 2026\COMP2171\focus_1\focus_1\NEXUS\FOCUS.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Spaceship 2.0\Documents\UWI Files\Semester ii 2026\COMP2171\focus_1\focus_1\NEXUS\FOCUS.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-25.0.2</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>25.0.2</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
