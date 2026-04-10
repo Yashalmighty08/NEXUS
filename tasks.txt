@@ -1,5 +1,7 @@
 Employee,Description,Deadline,Priority,Status
-Yash,Prepare chocolate chip cookies batch,2025-12-10,Medium,Pending
-Yash,Clean baking equipment,2025-12-11,Low,In Progress
+Yash,Prepare chocolate chip cookies batch,2025-12-10,Medium,Completed
+Yash,Clean baking equipment,2025-12-11,Low,Completed
 cheznay,Bake oatmeal raisin cookies,2025-12-10,High,Completed
-cheznay,Organize ingredient storage,2025-12-11,Medium,Completed
+cheznay,Organize ingredient storage,2025-12-11,Medium,In Progress
+Yash,Do the dishes,2026-04-09,High,Pending
+Yash,Something,2026-04-10,High,Pending
